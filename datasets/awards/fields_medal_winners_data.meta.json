@@ -1,0 +1,14 @@
+{
+  "title": "Fields Medal Winners by Country and Year",
+  "description": "Aggregated data of Fields Medal awards, showing the number of recipients from each country for each year.",
+  "source": [
+    "https://www.mathunion.org/imu-awards/fields-medal"
+  ],
+  "contributors": [
+    {
+      "name": "Alex",
+      "email": "malexben443@gmail.com"
+    }
+  ],
+  "last_updated": "12-08-2025"
+}
